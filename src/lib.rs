@@ -3,3 +3,5 @@
 #![allow(non_snake_case)]
 
 mod bindings;
+
+pub mod base64;
