@@ -1,0 +1,3 @@
+[submodule "cry"]
+	path = cry
+	url = https://gitlab.com/crylib/cry.git
